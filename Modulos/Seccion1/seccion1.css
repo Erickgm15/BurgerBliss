@@ -1,0 +1,37 @@
+.texto2{
+    font-size: medium;
+   font-family: Roboto;
+    color: #3486ac;
+    font-size: xx-large;
+
+}
+
+.texto1{
+    font-size: 20px;
+    font-family: Roboto;
+    color: #3486ac;
+   
+}
+
+.description{
+    font-size: 15px;
+    font-family: Roboto;
+    color: #b1b1b1;
+    
+    gap: 32px;
+}
+
+.btn1{
+    width: 400px;
+    border: 1px solid #3486ac;
+    border-radius: 100px;
+    padding: 20px;
+    margin-top: 50px;
+
+    font-size: 16px;
+    color: #3486ac;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

@@ -1,0 +1,18 @@
+header{
+    background-color: rgba(90, 88, 88, 0.753);
+    width: 150%;
+    height: 64px;
+    padding: 0 24px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .Logo{
+ height: 30px;
+}
+
+header .menu{
+height: 20px;
+}
