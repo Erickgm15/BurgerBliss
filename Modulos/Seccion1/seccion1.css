@@ -1,24 +1,33 @@
-.texto2{
-    font-size: medium;
-   font-family: Roboto;
-    color: #3486ac;
-    font-size: xx-large;
-
+.seccion1 {
+    padding: 48px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
 }
 
 .texto1{
     font-size: 20px;
+   font-family: Roboto;
+    color: #3486ac;
+    
+
+}
+
+.texto2{
+    font-size: 24px;
     font-family: Roboto;
     color: #3486ac;
+   
+
+
    
 }
 
 .description{
-    font-size: 15px;
+    font-size: 16px;
     font-family: Roboto;
     color: #b1b1b1;
     
-    gap: 32px;
 }
 
 .btn1{
@@ -26,7 +35,8 @@
     border: 1px solid #3486ac;
     border-radius: 100px;
     padding: 20px;
-    margin-top: 50px;
+    margin-top: 30px;
+    height: 50px;
 
     font-size: 16px;
     color: #3486ac;
@@ -34,4 +44,15 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    padding: 0 24px;
+}
+
+.imagen{
+    padding: 0%;
+    width: auto; 
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 20px;
+    display: block; 
+    margin: 0 auto;
 }
